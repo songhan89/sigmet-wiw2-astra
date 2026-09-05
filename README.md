@@ -148,7 +148,9 @@ JavaScript tests exercise all 1,488 time positions, cancellation boundaries, rev
 
 ## GitHub Pages
 
-[`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) creates a static export under `/sigmet-wiw2-astra/`. The code uses prefix-aware paths so replay JSON, symbols, and MapLibre worker load correctly from a project Pages URL.
+The live demo is published from the `gh-pages` branch. Its generated static files are exported under `/sigmet-wiw2-astra/`, and the code uses prefix-aware paths so replay JSON, symbols, and MapLibre worker load correctly from a project Pages URL.
+
+[`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) is included for a GitHub Actions-based deployment after a repository secret has been configured. It produces the same static artifact from `main`.
 
 Before a Pages deployment, add the repository Actions secret `MAPTILER_API`. It is injected during the build and is necessarily present in the resulting browser bundle because MapLibre uses it to request tiles. Restrict the key’s allowed origin in MapTiler to:
 
