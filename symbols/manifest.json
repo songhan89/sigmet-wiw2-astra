@@ -1,0 +1,51 @@
+{
+  "repository": "https://github.com/OGCMetOceanDWG/WorldWeatherSymbols",
+  "revision": "1b907f04da74c6dfd89508bab119e330ffd2f7b0",
+  "license": "CC BY 4.0",
+  "assets": {
+    "WeatherSymbol_ICAO_Thunderstorms.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_Thunderstorms.svg",
+      "sha256": "461cdacc753e67fa864ebc93df5141237a756d81e5cd7cde0c7d8b5faffa5850"
+    },
+    "WeatherSymbol_ICAO_Hail.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_Hail.svg",
+      "sha256": "4ad177cfbfbefdf9267955fdf0e309a826d9bf421280428f708f8101d03edd6f"
+    },
+    "WeatherSymbol_ICAO_SevereSquallLine.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_SevereSquallLine.svg",
+      "sha256": "4e5da46b4788057ea66cb08c794b4423ca1dcb335ab9bb265251eed6964f623e"
+    },
+    "WeatherSymbol_ICAO_TropicalCyclone.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_TropicalCyclone.svg",
+      "sha256": "309e3cdfd7a6ce7dbc02b56d4ae93c85d52c2cbde8c00aa176aad9cbcbc83db4"
+    },
+    "WeatherSymbol_ICAO_SevereTurbulence.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_SevereTurbulence.svg",
+      "sha256": "56deb4d80422566d258482a18fd326b6c9d159a1437e92ef2f75318f1642af54"
+    },
+    "WeatherSymbol_ICAO_SevereAircraftIcing.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_SevereAircraftIcing.svg",
+      "sha256": "06e1400291527569299a1f8126af3645a08c6bba10d036da72b9a6c9b89c6edc"
+    },
+    "WeatherSymbol_ICAO_FreezingPrecipitation.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_FreezingPrecipitation.svg",
+      "sha256": "d608bf7fd96eaa84a35950cf2f4d5e0a354cc7653e092f42009d597eb2cc77c4"
+    },
+    "WeatherSymbol_ICAO_MountainWaves.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_MountainWaves.svg",
+      "sha256": "cca2ed978b5f4d65e29835b4dc7b90734e106dd9a7973fe2a8ee8ed0ec8ad302"
+    },
+    "WeatherSymbol_ICAO_WidespreadSandstormOrDuststorm.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_WidespreadSandstormOrDuststorm.svg",
+      "sha256": "cabe782b1dba9c4f113ce1e95dcfc4a3ab3ab77aff4b93e934af94ea79226554"
+    },
+    "WeatherSymbol_ICAO_VisibleVolcanicAshCloud.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_VisibleVolcanicAshCloud.svg",
+      "sha256": "18858553431d356e2304d5fbd1133c8c7e5cc581715dd2e284b1076e544d9258"
+    },
+    "WeatherSymbol_ICAO_RadioactiveMaterialsInTheAtmosphere.svg": {
+      "source": "https://raw.githubusercontent.com/OGCMetOceanDWG/WorldWeatherSymbols/1b907f04da74c6dfd89508bab119e330ffd2f7b0/symbols/ICAO_SigWx/WeatherSymbol_ICAO_RadioactiveMaterialsInTheAtmosphere.svg",
+      "sha256": "6ae54402270e5be1547fe53d869b68479d4c4448e5773fdc031fd3ada613dc18"
+    }
+  }
+}
