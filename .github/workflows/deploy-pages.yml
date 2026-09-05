@@ -33,7 +33,7 @@ jobs:
           MAPTILER_API: ${{ secrets.MAPTILER_API }}
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist/client
+          path: dist/client/sigmet-wiw2-astra
 
   deploy:
     environment:
