@@ -1,0 +1,32 @@
+{
+  "reports": 193,
+  "xmlFiles": 193,
+  "pngFiles": 193,
+  "sourceFilesVerifiedUnchanged": 386,
+  "replayPositionsTested": 1488,
+  "cancellationLinksTested": 16,
+  "pythonTestsPassed": 7,
+  "webTestsPassed": 7,
+  "typecheck": "passed",
+  "applicationLint": "passed",
+  "productionBuild": "passed",
+  "npmKnownVulnerabilities": 0,
+  "httpChecks": {
+    "route": 200,
+    "mapWorker": 200,
+    "mapWorkerSharedModule": 200,
+    "symbol": 200,
+    "dataset": 200
+  },
+  "sourceCorrections": [
+    {
+      "source": "LSSR20WSSS312318260531231831",
+      "field": "validTo",
+      "original": "2026-05-01T02:45:00Z",
+      "derived": "2026-06-01T02:45:00Z",
+      "basis": "Embedded TAC VALID 312345/010245"
+    }
+  ],
+  "browserInteractionQA": "not performed",
+  "optionalWebMCP": "not verified"
+}
